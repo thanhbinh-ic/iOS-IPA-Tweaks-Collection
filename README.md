@@ -5,10 +5,13 @@ A curated collection of iOS tweaks (.dylib, .deb) designed for injection into IP
 ---
 
 ## [ >>> ] Features
-* **Organized Library:** Categorized tweaks for Social Media, Gaming, and System utilities.
-* **Compatibility Focused:** Regularly updated binaries to ensure they work with the latest app versions.
-* **Beginner Friendly:** Step-by-step guides for various sideloading and injection methods.
-* **Lightweight:** Focuses on optimized tweaks that don't cause significant battery drain or app instability.
+
+* **YouTube Enhancements:** Includes premium tweaks like `YTLitePlus`, `YouPiP`, `YouTubeDislikesReturn`, and `iSponsorBlock` for an ad-free and feature-rich experience.
+* **In-App Purchase (iAP) Tools:** High-quality bypasses such as `SatellaJailed`, `iAPCracker`, and specialized `iOSGods` popup removers.
+* **System & App Fixes:** Essential patches like `ExtensionFix`, `FilePickerFix`, and `alternativeIPAfix` to ensure modded apps run smoothly.
+* **Ad-Blocking & Privacy:** Dedicated network filters like `NetworkBlocker(adblocker)` and utilities to `StopReviews` prompts.
+* **Sideload Bypasses:** Specialized binaries like `Sideloadbypass1.org` to help apps evade detection or restriction policies.
+* **Versatile Formats:** Supports both `.dylib` and `.deb` files, compatible with major injection tools.
 
 ---
 
