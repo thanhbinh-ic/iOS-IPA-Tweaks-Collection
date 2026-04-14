@@ -24,10 +24,10 @@ To use these tweaks, you will typically need:
         * [SideStore](https://sidestore.io/) (Sideload via Wi-Fi without a PC)
         * [Azule](https://github.com/Al4ise/Azule) (CLI tool for macOS/Linux)
     * **On-Device:**
-        * [ESign](https://esign.yyy.moe/) (Powerful in-app injection)
+        * [ESign](https://esign.yyyue.xyz/) (Powerful in-app injection)
         * [LiveContainer](https://github.com/khanhduytran0/LiveContainer) (Run IPAs without installation)
         * [Scarlet](https://usescarlet.com/)
-        * [Bullfrog Assistant](https://github.com/pinnm/BullfrogAssistant)
+        * [Bullfrog Assistant](https://ios222.com/)
 3. **Signing Certificate:** A valid developer certificate (.p12) and provisioning profile, or a standard Apple ID for 7-day sideloading.
 
 ---
