@@ -4,14 +4,43 @@ A curated collection of iOS tweaks (.dylib, .deb) designed for injection into IP
 
 ---
 
-## [ >>> ] Features
+## [ ⊶⊷⊶ ] Tweak Repository List
 
-* **YouTube Enhancements:** Includes premium tweaks like `YTLitePlus`, `YouPiP`, `YouTubeDislikesReturn`, and `iSponsorBlock` for an ad-free and feature-rich experience.
-* **In-App Purchase (iAP) Tools:** High-quality bypasses such as `SatellaJailed`, `iAPCracker`, and specialized `iOSGods` popup removers.
-* **System & App Fixes:** Essential patches like `ExtensionFix`, `FilePickerFix`, and `alternativeIPAfix` to ensure modded apps run smoothly.
-* **Ad-Blocking & Privacy:** Dedicated network filters like `NetworkBlocker(adblocker)` and utilities to `StopReviews` prompts.
-* **Sideload Bypasses:** Specialized binaries like `Sideloadbypass1.org` to help apps evade detection or restriction policies.
-* **Versatile Formats:** Supports both `.dylib` and `.deb` files, compatible with major injection tools.
+Here is a detailed list of all tweaks available in this repository, categorized by their functionality.
+
+| Tweak Name | Description |
+| :--- | :--- |
+| **[ 🔓 Free iAP ]** | |
+| `SatellaJailed(prettynewversion).dylib` | Advanced iAP unlock tool for non-jailbroken devices |
+| `SatellaJailed.dylib` | Standard iAP unlock tool for non-jailbroken devices |
+| `iAPCracker.deb` | Classic tweak to "unlock" in-app/game purchases |
+| **[ ⚙️ Modding & Utilities ]** | |
+| `MaxCheat_v2.7.57.deb` | Memory scanner & game editor (cheat engine style) |
+| `com.ios.libtool_...arm.deb` | Find hidden/offset values in Unity-based games |
+| `com.test.h5gg_...arm.deb` | H5GG mod engine with JS APIs & HTML5 UI |
+| `hideiconH5gg-iGameGod.dylib` | Hides floating icons for H5GG & iGameGod from screen |
+| `iOS Gods Popup Gone.dylib` | Removes annoying login/social pop-ups when opening games |
+| `iOSGods.com.DA2...arm.deb` | Specific game mod binary from the iOSGods source |
+| `xyz.cypwn.autorc...arm64.deb`| Automation scripts and configs related to CyPwn |
+| `zxautorc.deb` | Automation scripts and configs related to CyPwn |
+| **[ 🛡️ Privacy & Clean UI ]** | |
+| `DisableNetwork.dylib` | Completely blocks the specific app's network connection |
+| `NetworkBlocker(adblocker).dylib` | Blocks connections to known ad and tracking servers |
+| `StopReviews.dylib` | Disables the "Rate this app on the App Store" pop-ups |
+| **[ 🛠️ System Fixes & Bypasses ]** | |
+| `ExtensionFix.dylib` | Fixes bugs related to app extensions (widgets/shares) after modding |
+| `FilePickerFix.dylib` | Fixes issues where the document/file picker fails to open |
+| `Sideloadbypass1.org.dylib` | Bypasses advanced application sideload detection |
+| `blatantsPatch.dylib` | Fixes crashes for VPN apps, widgets, and various other reasons |
+| **[ 📺 YouTube Enhancements ]** | |
+| `YTLitePlus.dylib` | Comprehensive mod: Ad-blocking, background playback, and more |
+| `YouPiP.dylib` | Force-activates the native Picture-in-Picture feature |
+| `YouTubeDislikesReturn.dylib` | Brings back the dislike counter on the YouTube interface |
+| `iSponsorBlock.dylib` | Automatically skips sponsored segments inside videos |
+| **[ 🩹 Crash Fixes (IPA) ]** | |
+| `alternativeIPAfix.dylib` | Alternative patch to fix sideloaded app crashing on launch |
+| `fixipa1.dylib` | Generic fix for sideloaded app stability |
+| `fixipa2.dylib` | Generic fix for sideloaded app stability (v2) |
 
 ---
 
@@ -35,7 +64,7 @@ To use these tweaks, you will typically need:
 
 ---
 
-## [ ◈◈◈ ] Injection Procedures
+## [ ⊶⊷⊶ ] Injection Procedures
 
 ### 1. Sideloadly Method (PC Required)
 1. **Download** the desired `.dylib` or `.deb` file.
@@ -56,7 +85,7 @@ To use these tweaks, you will typically need:
 
 ---
 
-## [ !!! ] Disclaimer
+## [ ⊶⊷⊶ ] Disclaimer
 
 * **Educational Purpose:** This project is for educational and research purposes only.
 * **Account Safety:** Use these tweaks at your own risk. I am not responsible for banned accounts, data loss, or any issues arising from the use of these files.
@@ -64,7 +93,7 @@ To use these tweaks, you will typically need:
 
 ---
 
-## [ <=> ] Contributing
+## [ ⊶⊷⊶ ] Contributing
 
 Contributions are welcome! If you have a high-quality tweak or a bug fix, please:
 
