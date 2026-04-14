@@ -52,8 +52,6 @@ To use these tweaks, you will typically need:
 2. **Injection & Sideloading Tools:**
     * **Windows/macOS:**
         * [Sideloadly](https://sideloadly.io/) (Recommended for injection)
-        * [AltStore](https://altstore.io/) (Classic sideloading)
-        * [SideStore](https://sidestore.io/) (Sideload via Wi-Fi without a PC)
         * [Azule](https://github.com/Al4ise/Azule) (CLI tool for macOS/Linux)
     * **On-Device:**
         * [ESign](https://esign.yyyue.xyz/) (Powerful in-app injection)
@@ -81,7 +79,7 @@ To use these tweaks, you will typically need:
 4. Select the `.dylib` or `.deb` file you want to inject.
 5. Tap **"Signature"** to process.
 
-> **Pro Tip:** If the app crashes on launch, ensure you have included necessary dependencies like `CydiaSubstrate.framework` or `Substitute.framework` if the tweak requires them.
+> **Tips:** If the app crashes on launch, ensure you have included necessary dependencies like `CydiaSubstrate.framework` or `Substitute.framework` if the tweak requires them.
 
 ---
 
